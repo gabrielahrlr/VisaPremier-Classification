@@ -15,11 +15,11 @@ variables and one uses heterogenous data (Continuous and Categorial variables).
 - Implementation in R 3.1.2
 
 - Libraries:
-    *MASS
-    *mclust
-    *Rmixmod
-    *Caret
-    *pROC
+    MASS
+    mclust
+    Rmixmod
+    Caret
+    pROC
 
 ###############################################################################
 #                               Files Information
