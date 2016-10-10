@@ -12,13 +12,14 @@ variables and one uses heterogenous data (Continuous and Categorial variables).
 ###############################################################################
 #                               Requirements
 ###############################################################################
-Implementation in R 3.1.2
-Libraries:
-MASS
-mclust
-Rmixmod
-Caret
-pROC
+- Implementation in R 3.1.2
+
+- Libraries:
+    -MASS
+    -mclust
+    -Rmixmod
+    -Caret
+    -pROC
 
 ###############################################################################
 #                               Files Information
@@ -45,6 +46,6 @@ This repository contains the following three files:
 
     - Prediction results and comparison.
 
-    3. visa-premier-classification.pdf: Further Description of the tasks, goals,
-                                        methodologies, explanation, results & 
-                                        conclusions.
+  3. visa-premier-classification.pdf: Further Description of the tasks, goals,
+                                      methodologies, explanation, results & 
+                                      conclusions.
